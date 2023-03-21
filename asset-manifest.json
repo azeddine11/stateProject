@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stateProject/static/css/main.1fc2c465.css",
+    "main.js": "/stateProject/static/js/main.552dfd11.js",
+    "static/media/jss.jpg": "/stateProject/static/media/jss.ef01a7026932d825265e.jpg",
+    "index.html": "/stateProject/index.html",
+    "main.1fc2c465.css.map": "/stateProject/static/css/main.1fc2c465.css.map",
+    "main.552dfd11.js.map": "/stateProject/static/js/main.552dfd11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fc2c465.css",
+    "static/js/main.552dfd11.js"
+  ]
+}
